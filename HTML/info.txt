@@ -1,0 +1,3 @@
+<> -- whatever written in this brackets knwon as html tag 
+for ex:- <dog> - opening tag </dog> - closing tag
+
